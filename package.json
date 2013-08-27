@@ -1,6 +1,6 @@
 {
   "name": "layered-hash-table",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A hash table made of layers where lower numbered layers over-ride the value of higher layers",
   "main": "index.js",
   "scripts": {
